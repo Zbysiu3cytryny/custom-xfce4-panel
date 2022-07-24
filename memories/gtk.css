@@ -39,7 +39,7 @@
 #pager-4 button:checked
 {
 	box-shadow: none;
-	background-color: #bf616a;
+	background-color: #902abb;
 	color: #EEE;
 }
 
@@ -55,12 +55,12 @@
 
 #whiskermenu-8 #whiskermenu-button
 {
-	background-color: #bf616a;
+	background-color: #902abb;
 	margin: 5px;
 }
 
 #whiskermenu-8 #whiskermenu-button:hover { background-color: rgba(255,255,255,0.15); }
-#whiskermenu-8 #whiskermenu-button:checked, #genmon-12 button:checked { background-color: #bf616a; }
+#whiskermenu-8 #whiskermenu-button:checked, #genmon-12 button:checked { background-color: #902abb; }
 
 window#whiskermenu-window>frame>border { border: 5px solid transparent; }
 window#whiskermenu-window scrolledwindow { margin: 2px; }
