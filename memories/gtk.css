@@ -93,7 +93,7 @@ window#whiskermenu-window scrolledwindow { margin: 2px; }
 .thunar .sidebar .view:hover { background-color: rgba(255,255,255,0.05); }
 .thunar .sidebar .view:selected {
 	background-color: rgba(255,255,255,0.1);
-	border-left: 2px solid #bf616a;
+	border-left: 2px solid #902abb;
 }
 
 VteTerminal, vte-terminal { padding: 15px; }
